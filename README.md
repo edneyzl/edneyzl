@@ -2,5 +2,10 @@
 
 - ⚡ Estudante de Técnico em Informática | Senac São Paulo
 
-**`Desenvolvedor FullStack em Formação`**
+**`Desenvolvedor FullStack`**
+
+## Minhas Habilidades
+<p>
+    <img src="./icons/HTML.svg" width="48"> 
+</p>
 
