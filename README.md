@@ -5,7 +5,5 @@
 **`Desenvolvedor FullStack`**
 
 ## Minhas Habilidades
-<p>
-    <img src="./icons/HTML.svg" width="48"> 
-</p>
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
