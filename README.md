@@ -6,4 +6,4 @@
 
 ## Minhas Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,html,css,javascript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,ai,vscode,html,css,javascript,react,tailwind,bootstrap,cs,java&theme=light)](https://skillicons.dev)
